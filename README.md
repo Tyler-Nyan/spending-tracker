@@ -79,15 +79,33 @@ Data Visualization:
 ## 🚀 Getting Started
 
 Clone the repository:
-git clone https://github.com/teddybear-cooking/spend-tracker.git
+
+```bash
+git clone https://github.com/tyler-nyan/spending-tracker.git
 Install dependencies:
-cd spend-tracker
+
+bash
+Copy
+Edit
+cd spending-tracker
 npm install
 Run the development server:
+
+bash
+Copy
+Edit
 npm start
 Build for production:
+
+bash
+Copy
+Edit
 npm run build
 Deploy to GitHub Pages:
+
+bash
+Copy
+Edit
 npm run deploy
 
 ## Note
