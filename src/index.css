@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Inter', sans-serif;
+  background-color: #f4f1fb; /* light purple-gray */
+  color: #2a1a4a; /* deep purple text */
+}
+
+nav {
+  background-color: #2a1a4a;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+nav a {
+  color: #f4f1fb;
+  margin-left: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.card {
+  background-color: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  margin-bottom: 1.5rem;
+  color: #4c1d95; /* plum for card content */
+}
